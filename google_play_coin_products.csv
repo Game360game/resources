@@ -1,0 +1,26 @@
+product_id,name,description,purchase_option_type,price_usd
+coins_10,10 Coins,"Adds 10 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,0.12
+coins_20,20 Coins,"Adds 20 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,0.24
+coins_25,25 Coins,"Adds 25 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,0.29
+coins_50,50 Coins,"Adds 50 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,0.59
+coins_70,70 Coins,"Adds 70 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,0.82
+coins_80,80 Coins,"Adds 80 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,0.94
+coins_100,100 Coins,"Adds 100 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,1.18
+coins_120,120 Coins,"Adds 120 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,1.41
+coins_150,150 Coins,"Adds 150 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,1.76
+coins_200,200 Coins,"Adds 200 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,2.35
+coins_250,250 Coins,"Adds 250 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,2.94
+coins_300,300 Coins,"Adds 300 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,3.53
+coins_350,350 Coins,"Adds 350 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,4.12
+coins_400,400 Coins,"Adds 400 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,4.71
+coins_450,450 Coins,"Adds 450 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,5.29
+coins_500,500 Coins,"Adds 500 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,5.88
+coins_600,600 Coins,"Adds 600 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,7.06
+coins_700,700 Coins,"Adds 700 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,8.24
+coins_800,800 Coins,"Adds 800 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,9.41
+coins_1000,1000 Coins,"Adds 1000 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,11.76
+coins_2000,2000 Coins,"Adds 2000 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,23.53
+coins_5000,5000 Coins,"Adds 5000 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,58.82
+coins_10000,10000 Coins,"Adds 10000 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,117.65
+coins_20000,20000 Coins,"Adds 20000 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,235.29
+coins_40000,40000 Coins,"Adds 40000 Game360 coins to your wallet. Use coins to join games, compete, and unlock in-app features.",Buy,470.59
